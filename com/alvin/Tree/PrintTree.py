@@ -9,4 +9,5 @@ A = ['A', [D, E]]
 C = ['C', [F]]
 B = ['B', []]
 Root = ['Root', [A, B, C]]
+print("test")
 print(Root)
